@@ -1,6 +1,7 @@
 const nulloSubstrings = [
   'modification, and he recently agreed to answer our questions',
   'legal efforts to overturn the 2020 election; and three offenses relating to Trump’s unlawful possession of government records at Mar-a-Lago',
+  'America is in the midst of the Cold War. The masculine fire and fury of World War II has given way to a period of cooling'
 ]
 
 function isAllWhitespace(text) {
