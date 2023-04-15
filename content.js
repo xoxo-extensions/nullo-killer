@@ -3,6 +3,7 @@ const nulloSubstrings = [
   'legal efforts to overturn the 2020 election; and three offenses relating to Trump’s unlawful possession of government records at Mar-a-Lago',
   'America is in the midst of the Cold War. The masculine fire and fury of World War II has given way to a period of cooling',
   'Go to the link, and look at that woman. Look at that face. She never expressed any remorse over',
+  'destroyed the Ancien Regime in Europe, was an economic and scientific golden era, but politically it was a mess.'
 ]
 
 function isAllWhitespace(text) {
